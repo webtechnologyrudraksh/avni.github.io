@@ -4,6 +4,7 @@
     <title>My Website</title>
 </head>
 <body>
+<link rel="stylesheet" href="style.css"
     <h1>Welcome to Avni's Website 🚀</h1>
     <p>This is my first website using GitHub Pages.</p>
 </body>
